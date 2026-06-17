@@ -1,0 +1,8 @@
+ComfyUI/.git/
+ComfyUI/input/
+ComfyUI/output/
+ComfyUI/models/
+ComfyUI/custom_nodes/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
